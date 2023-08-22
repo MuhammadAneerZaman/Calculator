@@ -1,5 +1,6 @@
-"use client"
-import Calculator from '@/Components/Calculator/Calculator';
+"use client";
+import Calculator from './Components/Calculator/Calculator';
+
 import React from 'react';
 export default function Home() {
  
